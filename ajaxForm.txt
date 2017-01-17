@@ -1,0 +1,4 @@
+http://jquery.malsup.com/form/#getting-started
+http://www.cnblogs.com/heyuquan/p/form-plug-async-submit.html
+
+ajaxsubmit 可以传文件和传参数

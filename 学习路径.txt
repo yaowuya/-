@@ -1,0 +1,3 @@
+学习css的命名规范（百度看）
+
+学习完成后就是一个较为熟练的HTML/CSS使用者了.这时候如果想继续深入学习相关类库和框架，推荐Sass和Compass，推荐两篇阮一峰的博客：http://www.ruanyifeng.com/blog/2012/06/sass.html http://www.ruanyifeng.com/blog/2012/11/compass.html

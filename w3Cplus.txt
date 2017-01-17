@@ -1,0 +1,4 @@
+<logger name="org.springframework" level="INFO"></logger>
+        <logger name="org.apache" level="WARN"></logger>
+        <logger name="scau.com.lprapm.dao" level="DEBUG"></logger>
+        <logger name="scau.com.lprapm.mapper" level="DEBUG"></logger>
